@@ -1,7 +1,6 @@
 # Dges-Search-2026
 Name Search on Dges
 
-Ayoo
 to use:
 
 -put the script in a folder
